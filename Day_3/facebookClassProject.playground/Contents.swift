@@ -1,7 +1,3 @@
-import UIKit
-
-var str = "Hello, playground"
-
 //FacebookClassChallenge
 class FacebookProfile {
     
@@ -15,12 +11,12 @@ class FacebookProfile {
     var relationshipstatus = "married"
     var bio = "6 foot 2 girffe from the lou!!"
     var friendlist = ["Josh"]
-   
+    
     
     /*****YOUR CODE GOES HERE*****/
     
     //Step 1: Create pre-selected options for certain attribute(s).
-// for relationship status
+    // for relationship status
     let optionOne = "Single"
     let optionTwo = "It's Complicated"
     let optionThree = "In a Relationship"
